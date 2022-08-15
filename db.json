@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Terminar primer modulo de Angular",
-      "day": "Agosto 5 a las 18 hs",
-      "reminder": true
-    },
-    {
       "id": 2,
       "text": "Investigar sobre Bootstrap",
       "day": "Agosto 5 a las 22 hs",
@@ -19,10 +13,10 @@
       "reminder": true
     },
     {
-      "id": 4,
-      "text": "Leer un libro",
-      "day": "Agosto 8 a las 18 hs",
-      "reminder": true
+      "text": "Nueva Tarea",
+      "day": "Agosto 14 a las 20 hs",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
